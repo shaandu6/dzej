@@ -1,0 +1,128 @@
+{
+    "products": [
+      {
+        "name": "Product 1",
+        "price": 239,
+        "image": "product1.png"
+      },
+      {
+        "name": "Product 2",
+        "price": 99.99,
+        "image": "product2.png"
+      },
+      {
+        "name": "Product 3",
+        "price": 100,
+        "image": "product3.png"
+      },
+      {
+        "name": "Product 4",
+        "price": 18.99,
+        "image": "product4.avif"
+      },
+      {
+        "name": "Product 5",
+        "price": 999.99,
+        "image": "product5.jfif"
+      },
+      {
+        "name": "Product 6",
+        "price": 62.99,
+        "image": "product6.png"
+      },
+      {
+        "name": "Product 7",
+        "price": 35.99,
+        "image": "product7.jfif"
+      },
+      {
+        "name": "Product 8",
+        "price": 421.99,
+        "image": "product8.jfif"
+      },
+      {
+        "name": "Product 9",
+        "price": 124.99,
+        "image": "product9.jfif"
+      },
+      {
+        "name": "Product 10",
+        "price": 145.99,
+        "image": "product10.jfif"
+      },
+      {
+        "name": "Product 11",
+        "price": 735.99,
+        "image": "product11.png"
+      },
+      {
+        "name": "Product 12",
+        "price": 796.99,
+        "image": "product12.jfif"
+      },
+      {
+        "name": "Product 13",
+        "price": 900,
+        "image": "product13.jfif"
+      },
+
+      {
+        "name": "Product 14",
+        "price": 421.99,
+        "image": "product14.jfif"
+      },
+      {
+        "name": "Product 15",
+        "price": 200.99,
+        "image": "product15.png"
+      },
+      {
+        "name": "Product 16",
+        "price": 591.99,
+        "image": "product16.png"
+      },
+
+      {
+        "name": "Product 17",
+        "price": 2000,
+        "image": "product17.png"
+      },
+      {
+        "name": "Product 18",
+        "price": 965,
+        "image": "product18.jpg"
+      },
+      {
+        "name": "Product 19",
+        "price": 633,
+        "image": "product19.png"
+      },
+      {
+        "name": "Product 20 ",
+        "price": 446,
+        "image": "product20.jpg"
+      },
+      {
+        "name": "Product 21 ",
+        "price": 105.99,
+        "image": "product21.png"
+      },
+      {
+        "name": "Product 22 ",
+        "price": 197.99,
+        "image": "product22.png"
+      },
+      {
+        "name": "Product 23 ",
+        "price": 99.99,
+        "image": "product 23.png"
+      },
+      {
+        "name": "Product 24 ",
+        "price": 142.99,
+        "image": "product24.jfif"
+      }
+
+    ]
+  }
+  

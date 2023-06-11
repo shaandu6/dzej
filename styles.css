@@ -1,0 +1,113 @@
+.product {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .product {
+    color: rgb(255, 255, 255);
+  }
+  .product img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .product h2 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .product p {
+    font-size: 14px;
+    
+    
+  }
+  body {
+    background: url(../images/bg-body.png) center top repeat-y #211917;
+    font-family: QuattrocentoSans-Regular;
+    margin: 0
+  }#header {
+    background-color: #694c42a2;
+    height: 180px;
+    border-bottom: 0 solid #ffffff00;
+    padding: 0
+  }
+  
+  #header>div {
+    width: none;
+    margin: auto;
+    padding: 0 10px;
+    text-align: right
+  }
+  
+  #logo {
+    opacity: .7;
+    float: left
+  }
+  
+  #navigation {
+    line-height: 80px;
+    margin: 0;
+    padding: 0
+  }
+  
+  #navigation li {
+    float: left;
+    margin: 0 15px
+  }
+  #featured div.details p a:hover,
+#navigation li a:hover,
+#navigation li.selected a {
+	color: #ffc947
+}
+
+#contents {
+	background-position: -961px top;
+	background-repeat: repeat-y;
+	width: 970px;
+	margin: 0 auto
+}
+
+#contents>div {
+	background-position: -1931px bottom;
+	width: 960px;
+	padding: 0 5px 10px
+}
+
+#contents div.body {
+	background-position: 1px top;
+	width: 940px;
+	padding: 10px 10px 0
+}
+
+#contents div.body h1 {
+	color: #241b18;
+	font-size: 34px;
+	font-weight: 400;
+	margin: 0 0 18px
+}
+
+#contents p {
+	font-size: 14px;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 24px;
+	text-align: justify
+}
+
+#contents p a:hover {
+	color: #8e8265
+}
+#navigation {
+	line-height: 80px;
+	margin: 0;
+	padding: 0
+}
+
+#navigation li {
+	float: left;
+	margin: 0 15px
+}
